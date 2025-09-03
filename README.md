@@ -5,6 +5,6 @@ Includes PDF of wireframe created with Figma.
 
 ## Screenshots
 ![main page](images/screenshot1.png)
-![resume page](images/screenshot2)
+![resume page](images/screenshot2.png)
 ![projects page](images/screenshot3.png)
 
